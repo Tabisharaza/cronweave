@@ -7,7 +7,7 @@
 
 A local-only cron playground that turns five fields into a clear, timezone-aware schedule.
 
-[How it works](#how-it-works) · [Contribute](CONTRIBUTING.md)
+[Open the live playground](https://tabisharaza.github.io/cronweave/) · [How it works](#how-it-works) · [Contribute](CONTRIBUTING.md)
 
 ![CI](https://github.com/Tabisharaza/cronweave/actions/workflows/ci.yml/badge.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-d9ed99?labelColor=17372c)
@@ -15,7 +15,7 @@ A local-only cron playground that turns five fields into a clear, timezone-aware
 
 </div>
 
-Browser checks and live deployment are in progress. Actual screenshots will be added after verification.
+![CronWeave desktop interface showing the schedule editor, upcoming runs and hourly rhythm](docs/screenshots/desktop.png)
 
 ## A schedule you can actually see
 
@@ -113,3 +113,4 @@ Original project by [Tabish A. Raza](https://github.com/Tabisharaza), built with
 ## License
 
 [MIT](LICENSE). Dependency notices and source references are listed in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+
