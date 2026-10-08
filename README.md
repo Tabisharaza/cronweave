@@ -30,7 +30,7 @@ Cron is compact. Its surprises usually aren't. CronWeave brings the next 24 exec
 
 ## Quick start
 
-Requires Node.js 20.19+ or 22.12+ and npm.
+Requires Node.js 22.12+ on the 22.x line, or Node.js 24.x, and npm. CI uses Node.js 22.
 
 ```sh
 npm ci
@@ -113,4 +113,3 @@ Original project by [Tabish A. Raza](https://github.com/Tabisharaza), built with
 ## License
 
 [MIT](LICENSE). Dependency notices and source references are listed in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
-
